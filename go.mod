@@ -1,6 +1,6 @@
 module github.com/opendatahub-io/distributed-workloads
 
-go 1.22.2
+go 1.23
 
 require (
 	github.com/kubeflow/training-operator v1.7.0
@@ -49,7 +49,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/sirupsen/logrus v1.9.3 // indirect
+	github.com/sirupsen/logrus v1.10.2 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	golang.org/x/net v0.27.0 // indirect
