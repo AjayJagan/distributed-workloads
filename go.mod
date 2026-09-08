@@ -1,6 +1,6 @@
 module github.com/opendatahub-io/distributed-workloads
 
-go 1.22.2
+go 1.27
 
 require (
 	github.com/kubeflow/training-operator v1.7.0
